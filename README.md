@@ -255,6 +255,7 @@
 - [w3tecch - express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
 - [kamahl19 - react-starter](https://github.com/Kamahl19/react-starter)
 - [jsynowiec - node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate)
+- [OTF - saas-dashboard](https://otf-kit.dev/templates/saas-dashboard?utm_source=directory&utm_medium=organic&utm_campaign=awesome-listing&utm_content=2026-10-18-saas-typescript-starters) - Production-ready Next.js 14 & TypeScript SaaS starter kit with auth, Stripe billing, workspaces, and team management.
 
 ## TypeScript Design patterns
 
